@@ -1,0 +1,12 @@
+Put your photos in this folder with these exact names
+(or edit the "src" in index.html to match whatever names you use):
+
+  me-hero.jpg     -> big photo in the hero section (square works best, e.g. 800x800)
+  me-about.jpg    -> photo in the "About" section (portrait shape, e.g. 800x1000)
+  gallery-1.jpg   -> gallery photo 1 (portrait shape, e.g. 900x1200)
+  gallery-2.jpg   -> gallery photo 2
+  gallery-3.jpg   -> gallery photo 3
+  gallery-4.jpg   -> gallery photo 4
+
+Until you add a photo, that spot will show a dashed placeholder
+box that says "PHOTO SLOT" so you can see exactly where it goes.
